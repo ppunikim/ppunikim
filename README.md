@@ -2,4 +2,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ppunikim)](https://hits.seeyoufarm.com)      
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ppunikim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppunikim&theme=dark&show_icons=true)
